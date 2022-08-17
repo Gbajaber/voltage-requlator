@@ -11,3 +11,6 @@ Voltage regulator boards are used to regulate and lower the higher voltages prov
 Voltage regulators make sure that the supply voltage doesn't vary too much about a certain mean and maintains a constant value.
 
 for example : The IR sensor will require a constant voltage to perform efficiently and accurately over a long period of time. However the most likely application is when some IR sensors require more current than the arduino or any other programming board can provide. In such cases you will opt for external power supply which may exceed the rated voltage of the IR or the motors involved. In such cases to prevent damage to your sensors and motors you use a voltage regulator of lower value as required for the components to give in the correct specified voltage input.
+
+
+<img width="205" alt="‏لقطة الشاشة ١٤٤٤-٠١-٢٠ في ٢ ٤٤ ٤٧ ص" src="https://user-images.githubusercontent.com/85759827/185263289-9b55e64e-dd03-49d4-b7ad-f2c99e42890a.png">
